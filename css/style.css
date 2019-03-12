@@ -1,0 +1,213 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.chess{
+	width: 700px;
+	height: 700px;
+	background-image: url(https://1001rich.com.ua/image/cache/catalog/produkts/Shahy/Profesiyni/c-192c/shaxova-doshka-no6-110-700x700.jpg);
+	margin: auto;
+	position: relative;
+}
+
+p {
+	font-size: 70px;
+}
+
+.first{
+	position: absolute;
+	top: 50px;
+	left: 80px;
+}
+
+.second{
+	position: absolute;
+	top: 50px;
+	left: 150px;
+}
+
+.third{
+	position: absolute;
+	top: 50px;
+	left: 220px;
+}
+
+.fourth{
+	position: absolute;
+	top: 50px;
+	left: 290px;
+}
+
+.fifth{
+	position: absolute;
+	top: 50px;
+	left: 360px;
+}
+
+.sixth{
+	position: absolute;
+	top: 50px;
+	left: 430px;
+}
+
+.seventh{
+	position: absolute;
+	top: 50px;
+	left: 500px;
+}
+
+.eighth{
+	position: absolute;
+	top: 50px;
+	left: 570px;
+}
+
+.nineth{
+	position: absolute;
+	top: 120px;
+	left: 80px;
+}
+
+.tenth{
+	position: absolute;
+	top: 120px;
+	left: 150px;
+}
+
+.eleventh{
+	position: absolute;
+	top: 120px;
+	left: 220px;
+}
+
+.twelfth{
+	position: absolute;
+	top: 120px;
+	left: 290px;
+}
+
+.thirteenth{
+	position: absolute;
+	top: 120px;
+	left: 360px;
+}
+
+.fourteenth{
+	position: absolute;
+	top: 120px;
+	left: 430px;
+}
+
+.fifteenth{
+	position: absolute;
+	top: 120px;
+	left: 500px;
+}
+
+.sixteenth{
+	position: absolute;
+	top: 120px;
+	left: 570px;
+}
+
+.seventeenth{
+	position: absolute;
+	top: 530px;
+	left: 80px;
+}
+
+.eighteenth{
+	position: absolute;
+	top: 530px;
+	left: 150px;
+}
+
+.nineteenth{
+	position: absolute;
+	top: 530px;
+	left: 220px;
+}
+
+.twelve{
+	position: absolute;
+	top: 530px;
+	left: 290px;
+}
+
+.twenty-one{
+	position: absolute;
+	top: 530px;
+	left: 360px;
+}
+
+.twenty-two{
+	position: absolute;
+	top: 530px;
+	left: 430px;
+}
+
+.twenty-three{
+	position: absolute;
+	top: 530px;
+	left: 500px;
+}
+
+.twenty-four{
+	position: absolute;
+	top: 530px;
+	left: 570px;
+}
+
+.twenty-five{
+	position: absolute;
+	top: 460px;
+	left: 80px;
+}
+
+.twenty-six{
+	position: absolute;
+	top: 460px;
+	left: 150px;
+}
+
+.twenty-seven{
+	position: absolute;
+	top: 460px;
+	left: 220px;
+}
+
+.twenty-eight{
+	position: absolute;
+	top: 460px;
+	left: 290px;
+}
+
+.twenty-nine{
+	position: absolute;
+	top: 460px;
+	left: 360px;
+}
+
+.thirhty{
+	position: absolute;
+	top: 460px;
+	left: 430px;
+}
+
+.thirhty-one{
+	position: absolute;
+	top: 460px;
+	left: 500px;
+}
+
+.thirhty-two{
+	position: absolute;
+	top: 460px;
+	left: 570px;
+}
+
+
+
+
